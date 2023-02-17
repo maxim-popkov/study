@@ -1,0 +1,26 @@
+# Media
+*.png
+*.jpg
+
+# SD data
+stable-diffusion/data/
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+
+# Log files
+pip-log.txt
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code # 
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
