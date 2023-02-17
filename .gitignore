@@ -2,6 +2,9 @@
 *.png
 *.jpg
 
+# Models
+.ckpt
+
 # SD data
 stable-diffusion/data/
 
