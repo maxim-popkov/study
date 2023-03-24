@@ -1,5 +1,5 @@
 pyllama
 transformers
 py-itree==0.0.17
-#py-itree for windows
-#pip install https://github.com/juncongmoo/itree/archive/refs/tags/tag-bf9f3aada064acf3ce4db6fc58ed2e744caee0a3.tar.gz
+# py-itree for windows
+# pip install https://github.com/juncongmoo/itree/archive/refs/tags/tag-bf9f3aada064acf3ce4db6fc58ed2e744caee0a3.tar.gz
