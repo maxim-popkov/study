@@ -1,6 +1,7 @@
 # Media
 *.png
 *.jpg
+*.mp4
 
 # Models
 .ckpt
